@@ -43,6 +43,8 @@ This project demonstrates practical real-time AI system design for music:
 - Stronger context continuity across successive phrases
 - Improved retrieval precision under expressive tempo variation
 
+## Feel free to request a demo if you like!
+
 ## License
 
 MIT
