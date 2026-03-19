@@ -47,10 +47,9 @@ This project demonstrates practical real-time AI system design for music:
 - This repository is a product showcase and overview only. Implementation details and source code are maintained separately.
 
 ## Contact
-- Interested in a walkthrough, collaboration, or technical deep dive:
+Interested in a walkthrough, collaboration, or technical deep dive:
 
-Open an issue in this repository
-Or reach out via GitHub profile
+- Open an issue in this repository or reach out via GitHub profile
 
 
 ## License
